@@ -1,2 +1,2 @@
-# Revisiting-Arabic-morphology-A-computational-based-approach-to-stemming-and-root-character-permutat
-Revisiting Arabic morphology: A computational-based approach to stemming and root character permutations
+# Revisiting Arabic Morphology: A Machine-Learning approach to stemming and root character permutations with a publicly available implementation
+The article submitted
